@@ -26,8 +26,8 @@ npm install -g @devcontainers/cli
 ### 2a. Clone the repo (if you haven't already)
 
 ```bash
-git clone https://github.com/intel-agency/ai-new-workflow-app-template.git
-cd ai-new-workflow-app-template
+git clone https://github.com/intel-agency/workflow-orchestration-service-yankee60.git
+cd workflow-orchestration-service-yankee60
 ```
 
 ### 2b. Configure environment variables
